@@ -136,7 +136,7 @@ end
 "
 if &t_Co > 255
    if s:molokai_original == 1
-      hi Normal       ctermbg=253 ctermbg=234
+      hi Normal       ctermfg=253 ctermbg=234
       hi CursorLine               ctermbg=234   cterm=none
       hi CursorLineNr ctermfg=208 ctermbg=237   cterm=bold
    else
