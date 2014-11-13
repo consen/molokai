@@ -183,7 +183,7 @@ if &t_Co > 255
    hi Operator        ctermfg=161
 
    " complete menu
-   hi Pmenu           ctermfg=253  ctermbg=233
+   hi Pmenu           ctermfg=234  ctermbg=230
    hi PmenuSel        ctermfg=208  ctermbg=237  cterm=bold
    hi PmenuSbar                    ctermbg=236
    hi PmenuThumb      ctermfg=239  ctermbg=239
