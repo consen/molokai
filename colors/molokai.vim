@@ -206,8 +206,8 @@ if &t_Co > 255
        hi SpellRare  ctermfg=none ctermbg=none  cterm=reverse
    endif
    hi Statement       ctermfg=161               cterm=bold
-   hi StatusLine      ctermfg=236 ctermbg=242   cterm=reverse
-   hi StatusLineNC    ctermfg=244 ctermbg=232
+   hi StatusLine      ctermfg=242 ctermbg=236   cterm=none
+   hi StatusLineNC    ctermfg=240 ctermbg=235   cterm=none
    hi StorageClass    ctermfg=208
    hi Structure       ctermfg=81
    hi Tag             ctermfg=161
